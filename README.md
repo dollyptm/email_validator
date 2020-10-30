@@ -1,2 +1,3 @@
 # email_validator
-validates email using 
+A simple python script to validate email using https://verify-email.org 
+
